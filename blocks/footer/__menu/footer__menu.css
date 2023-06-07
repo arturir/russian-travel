@@ -1,0 +1,8 @@
+.footer__menu {
+    margin: 0;
+}
+@media (min-width: 768px) {
+    .footer__menu {
+        display: inline-block;
+    }
+}

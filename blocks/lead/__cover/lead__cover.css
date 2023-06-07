@@ -1,0 +1,19 @@
+.lead__cover {
+        margin: 0 auto;
+        width: 100vw
+    }
+@media (min-width: 768px) {
+    .lead__cover {
+        width: 100vw;
+    }
+}
+@media (min-width: 1024px) {
+    .lead__cover {
+        width: 928px;
+    }
+}
+@media (min-width: 1280px) {
+    .lead__cover {
+        width: 984px;
+    }
+}

@@ -1,0 +1,19 @@
+.cover {
+    display: block;
+    background:   linear-gradient(
+        rgba(0, 0, 0, 0.3), 
+        rgba(0, 0, 0, 0.3)
+      ), url(../../images/cover-trains.jpg);
+    min-width: 320px;
+    width: 100vw;
+    height: 62.5vw;
+    background-size: 100%;
+    position: relative;
+}
+@media (min-width: 1280px) {
+    .cover {
+        height: 740px;
+        width: 1184px;
+        margin: 0 auto;
+    }
+}
