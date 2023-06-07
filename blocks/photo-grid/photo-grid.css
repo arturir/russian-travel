@@ -9,7 +9,7 @@
     .photo-grid {
         margin: 0 24px 88px;
         grid-template-columns: 1fr 1fr;
-        gap: 16px;
+        gap: 14px;
     }
 }
 @media (min-width: 1024px) {

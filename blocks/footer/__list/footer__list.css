@@ -7,5 +7,6 @@
 @media (min-width: 768px) {
     .footer__list {
         flex-direction: row;
+        gap: 18px;
     }
 }
