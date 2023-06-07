@@ -40,5 +40,7 @@
 @import url(../blocks/footer/__menu/footer__menu.css);
 @import url(../blocks/footer/__list/footer__list.css);
 @import url(../blocks/footer/__copyright/footer__copyright.css);
+@import url(../blocks/cover-animation/cover-animation.css);
+@import url(../blocks/link-animation/link-animation.css);
 
 
