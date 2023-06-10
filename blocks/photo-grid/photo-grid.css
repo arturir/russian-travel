@@ -17,7 +17,6 @@
         margin: 0 auto 92px;
         width: 928px;
         grid-template-columns: 1fr 1fr 1fr;
-        gap: 14px;
     }
 }
 @media (min-width: 1280px) {
