@@ -1,12 +1,7 @@
 .body {
     font-size: 0;
     background-color: #2A2C2F;
-    font-family: 'Inter', sans-serif;
+    font-family: 'Inter', 'sans-serif';
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
-}
-@supports (font-variation-settings: normal) {
-    .body { 
-        font-family: 'Inter var', sans-serif; 
-    }
 }

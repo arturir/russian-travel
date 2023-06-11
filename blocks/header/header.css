@@ -2,6 +2,7 @@
     margin: 16px 16px 48px;
     display: flex;
     justify-content: space-between;
+    align-items: end;
 }
 @media (min-width: 768px) {
     .header {
