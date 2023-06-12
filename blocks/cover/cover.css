@@ -1,5 +1,7 @@
 .cover {
-    display: block;
+    display: flex;
+    justify-content: center;
+    align-items: center;
     background: url(../../images/cover-trains.jpg);
     min-width: 320px;
     width: 100%;
